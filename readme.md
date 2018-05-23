@@ -11,3 +11,11 @@
 |          | 박치혜 (https://github.com/chiabi)      |
 |          | 서동빈 (https://github.com/DongbeenSeo) |
 |          | 이근환 (https://github.com/leekeunhwan) |
+| 20180518 | 박치혜 (https://github.com/chiabi)      |
+|          | 서동빈 (https://github.com/DongbeenSeo) |
+|          | 이근환 (https://github.com/leekeunhwan) |
+|          | 김상혁 (https://github.com/xxsank)      |
+| 20180521 | 박치혜 (https://github.com/chiabi)      |
+|          | 서동빈 (https://github.com/DongbeenSeo) |
+|          | 이근환 (https://github.com/leekeunhwan) |
+|          | 김상혁 (https://github.com/xxsank)      |
